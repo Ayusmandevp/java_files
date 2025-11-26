@@ -16,5 +16,6 @@ public class array{
             }
         }
         System.out.println(even+"      "+odd);
+        sc.close();
     }
 }

@@ -7,5 +7,6 @@ public class Averageofthree{
         int c=sc.nextInt();
         int avg=(a+b+c)/3;
         System.out.print(avg);
+        sc.close();
     }
 }

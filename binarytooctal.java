@@ -18,5 +18,6 @@ public class binarytooctal{
             octal+=String.valueOf(sum);
         }
         System.out.println("Octal is "+octal);
+        sc.close();
     }
 }
