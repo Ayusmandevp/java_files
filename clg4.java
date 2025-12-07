@@ -14,5 +14,6 @@ public class clg4{
         int c=sc.nextInt();
         int greatest=a>b?(a>c?a:c):(b>c?b:c);
         System.out.println(greatest);
+        sc.close();
     }
 }

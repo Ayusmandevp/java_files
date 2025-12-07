@@ -6,5 +6,6 @@ public class Condition2{
         int age=sc.nextInt();
         String val=age>=18?"adult":"not adult";
         System.out.print(val);
+        sc.close();
     }
 }

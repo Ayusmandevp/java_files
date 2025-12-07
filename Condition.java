@@ -9,5 +9,6 @@ public class Condition{
         }else{
             System.out.print("You can't vote");
         }
+        sc.close();
     }
 }

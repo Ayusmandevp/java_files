@@ -16,6 +16,7 @@ import java.util.Scanner;
                 break;
             }
         }
+        sc.close();
     }
 }*/
 
@@ -35,5 +36,6 @@ public class clg3{
             b=r;
         }
         System.out.println("Greatest common diviser is "+a);
+        sc.close();
     }
 }

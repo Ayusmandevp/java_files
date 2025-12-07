@@ -28,5 +28,6 @@ public class Calculator{
             default:
                 System.out.print("Enter correct operator(+,-,*,/,%)...");
         }
+        sc.close();
     }
 }
